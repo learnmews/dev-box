@@ -9,7 +9,7 @@ Inspired by https://github.com/rails/rails-dev-box and https://github.com/rriehl
 
 ##What's installed
 ### Shared
-. Dev tools
-. Git
+- Dev tools
+- Git
 
 
