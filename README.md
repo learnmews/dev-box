@@ -1,7 +1,5 @@
 # dev-box
-A vagrant based VM environment setup for Ruby, Rails and Python development
-
-leverages and builds on top of [Rails dev box](https://github.com/rails/rails-dev-box) and [Python dev environment](https://github.com/rriehle/uwpce-vagrant)
+A vagrant based VM environment setup for Ruby, Rails and Python development. Leverages and builds on top of [Rails dev box](https://github.com/rails/rails-dev-box) and [Python dev environment](https://github.com/rriehle/uwpce-vagrant)
 
 ## Requirements
 1. Virtualbox
