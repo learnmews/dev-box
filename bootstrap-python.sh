@@ -10,7 +10,7 @@ echo updating python package information
 add-apt-repository -y ppa:mystic-mirage/pycharm >/dev/null 2>&1
 apt-get -y update >/dev/null 2>&1
 
-echo installing pythong tools
+echo installing python tools
 apt-get install -y python3-dev python3-pip 
 apt-get install -y bpython3
 apt-get install -y idle3
